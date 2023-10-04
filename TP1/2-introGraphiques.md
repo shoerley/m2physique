@@ -41,8 +41,9 @@ Hist et Boxplot permettent d'afficher respectivement la distribution et le diagr
 
 2. Affichez un histogramme des températures minimales, et un histogramme des températures maximales.
 
-3. Affichez une boite à moustaches des températures minimales, et un histogramme des températures maximales. Pour cette question, inspirez-vous du snippet suivant.
+3. Affichez une boite à moustaches des températures minimales, et un histogramme des températures maximales. Pour cette question, inspirez-vous du snippet suivant et de la fifgure.
 
+![alt text](./ressources/boxplot example.png "Title")
 
 ```python
    ...
