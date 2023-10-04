@@ -24,3 +24,17 @@ Localisez le notebook sous TP1/ressources/notebook-toy sur le Github consacré a
    * titre des axes et du graphique
 
 Dans tous les cas, consultez la documentation de matplotlib !
+
+# Code du notebook
+
+```python
+   import numpy as np
+   import matplotlib as plt
+   
+   x = np.linspace(0, 10, 100)
+   y = 4 + 2 * np.sin(2 * x)
+   
+   plt.plot(x, y)
+   plt.show
+```
+

@@ -75,7 +75,7 @@ if __name__ == '__main__':
 	separator = ";"
 
 	# exemple d'affichage du contenu du fichier
-	load_file_with_python(filename, separator)
+	load_file_with_numpy(filename, separator)
 
 
 	"""
