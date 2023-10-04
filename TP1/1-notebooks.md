@@ -11,3 +11,16 @@ Les notebooks sont composés de cellules, qu'il est possible d'exécuter sépar�
 # Exercice
 
 Localisez le notebook sous TP1/ressources/notebook-toy sur le Github consacré au TP.
+
+1. Depuis https://jupyter.org/try-jupyter, implémentez le notebook et essayez-le. Pour ce faire, créez les cellules dans Jupyter et exécutez-les.
+
+2. Que contiennent `x` et `y`, compte tenu de la documentation sur `np.linspace()` ?
+
+3. Essayez d'autres types de représentations : scatter, hist, et stem ; en particulier
+
+4. Pour chaque type de représentation, faites varier les options d'affichage :
+   * type de marqueur
+   * couleur des lignes
+   * titre des axes et du graphique
+
+Dans tous les cas, consultez la documentation de matplotlib !
