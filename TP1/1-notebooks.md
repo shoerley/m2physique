@@ -29,7 +29,7 @@ Dans tous les cas, consultez la documentation de matplotlib !
 
 ```python
    import numpy as np
-   import matplotlib as plt
+   from matplotlib import pyplot as plt
    
    x = np.linspace(0, 10, 100)
    y = 4 + 2 * np.sin(2 * x)
