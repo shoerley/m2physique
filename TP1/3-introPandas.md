@@ -15,7 +15,7 @@ import pandas as pd
 
 def load_file_with_pandas(filename, separator):
 	"""
-	Pandas charge les fichiers csv sous un format particulier, qui lui est propre.
+	Pandas charge les fichiers csv vers un format particulier, qui lui est propre : le DataFrame.
 	On peut y faire des recherches (presque) comme si on était dans une base de données,
 	faire des calculs, extraire des colonnes, etc.
 	:param filename: chemin vers le fichier à ouvrir
