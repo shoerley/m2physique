@@ -12,6 +12,12 @@ Ressources M2 Physique 2023
 * vendredi 13 octobre 2023 - **horaire à confirmer**  - salle TP+207
 
 Le lien suivant pourra être utilisé en séance pour des démonstrations : https://univ-antilles-fr.zoom.us/j/85955410332?pwd=PhN7EhfbqEmOmxfeVDfYbaNhUYPpuO.1
+
+# Evaluation
+
+Votre maquette prévoit une évaluation d'une heure trente, en dehors des heures de TD. Une fois la date fixée, vous en serez informés. Cette évaluation pourra être soit une évaluation écrite sur table (sans ordinateur), soit une évaluation de type travaux pratiques (avec ordinateur).
+
+
 # Spyder
 
 Spyder est l'IDE recommandé pour les séances pratiques. 
