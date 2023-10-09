@@ -7,8 +7,8 @@ Ressources M2 Physique 2023
 * ~~vendredi 22 septembre 2023 - 14h à 16h - salle TP+207~~
 * ~~vendredi 29 septembre 2023 - 13h30 h à 15h30 - salle TP+207~~
   * ~~https://github.com/shoerley/m2physique/tree/master/TP0~~
-* vendredi 6 octobre 2023 - 13h30 h à 15h30 - salle TP+207 - 
-  * https://github.com/shoerley/m2physique/tree/master/TP1
+* ~~vendredi 6 octobre 2023 - 13h30 h à 15h30 - salle TP+207~~ 
+  * ~~https://github.com/shoerley/m2physique/tree/master/TP1~~
 * vendredi 13 octobre 2023 - **horaire à confirmer**  - salle TP+207
 
 Le lien suivant pourra être utilisé en séance pour des démonstrations : https://univ-antilles-fr.zoom.us/j/85955410332?pwd=PhN7EhfbqEmOmxfeVDfYbaNhUYPpuO.1
