@@ -37,7 +37,7 @@ Affichez un `scatter` de `X`, et pour chaque cas, afficher un `scatter` des donn
 
 Hist et Boxplot permettent d'afficher respectivement la distribution et le diagramme à moustaches d'une variable.
 
-1. En vous inspirant du code sous `TP0/loadCsvExamples.py`, chargez dans un tableau numpy le fichier de températures `TP0/ressources/loadCsvExamples.py`. Les colonnes d'indices 1 et 2 contiennent les températures maximales et minimales observées.
+1. En vous inspirant du code sous `TP0/python/loadCsvExamples.py`, chargez dans un tableau numpy le fichier de températures `TP0/ressources/temperatures_moule.csv`. Les colonnes d'indices 1 et 2 contiennent les températures maximales et minimales observées.
 
 2. Affichez un histogramme des températures minimales, et un histogramme des températures maximales.
 
