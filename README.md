@@ -15,8 +15,8 @@ Ressources M2 Physique 2023
 # Assitance
 
 Hors séance, vous pouvez me demander de l'aide ou un avis sur vos travaux. Pour ce faire, deux moyens :
-* Par mail, en précisant dans l'objet que vous demandez de l'aide
-* En visio, après avoir convenu d'un RV par mail
+* Par mail, en posant vos questions avec vos codes sources en pièce jointe ;
+* En visio, après avoir convenu d'un RV par mail.
 
 En ce qui concerne la visio, le lien Zoom suivant sera utilisé : 
 * Zoom : https://zoom.us/j/93340293422?pwd=Z3YvZm15c0ZFNEVYVmdhMmw2a0hYdz09
