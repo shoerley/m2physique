@@ -28,4 +28,4 @@ Vous devez :
 
 Pour vos envois, utilisez l'adresse communiquée en séance.
 
-Je reste disponible entre temps, par mail ou visio, pour vos questions.
+Je reste disponible entre temps, par mail ou visio, pour vos questions. Pour la procédure à suivre, voir le fichier README.md à la racine du dépôt GIT, section "Assistance".
