@@ -2,7 +2,7 @@
 
 # Instructions pour le TP2
 
-Ce TP est prévu le 13 octobre et est le dernier prévu. Les vendredis 13 étant des jours censés porter chance, les exercices sont plus compliqués (puisque vous êtes placés sous une bonne étoile).
+Ce TP est prévu le 13 octobre et est le dernier prévu. Les vendredis 13 étant des jours censés porter chance (... ou pas), les exercices sont plus compliqués (puisque vous êtes placés sous une bonne étoile ... ou pas !).
 
 ## 1. Travail à faire
 
