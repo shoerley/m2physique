@@ -9,8 +9,8 @@ Ressources M2 Physique 2023
   * ~~https://github.com/shoerley/m2physique/tree/master/TP0~~
 * ~~vendredi 6 octobre 2023 - 13h30 h à 15h30 - salle TP+207~~ 
   * ~~https://github.com/shoerley/m2physique/tree/master/TP1~~
-* vendredi 13 octobre 2023 - 13h30 h à 15h30  - salle TP+105
-  * https://github.com/shoerley/m2physique/tree/master/TP2 
+* ~~vendredi 13 octobre 2023 - 13h30 h à 15h30  - salle TP+105~~
+  * ~~https://github.com/shoerley/m2physique/tree/master/TP2~~
 
 # Assitance
 
