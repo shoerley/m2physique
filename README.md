@@ -12,6 +12,8 @@ Ressources M2 Physique 2023
 * ~~vendredi 13 octobre 2023 - 13h30 h à 15h30  - salle TP+105~~
   * ~~https://github.com/shoerley/m2physique/tree/master/TP2~~
 
+Remarque : le TP2 peut être remis jusqu'au 24 octobre 2023.
+
 # Assitance
 
 Hors séance, vous pouvez me demander de l'aide ou un avis sur vos travaux. Pour ce faire, deux moyens :
