@@ -9,17 +9,35 @@ Ressources M2 Physique 2023
   * ~~https://github.com/shoerley/m2physique/tree/master/TP0~~
 * ~~vendredi 6 octobre 2023 - 13h30 h à 15h30 - salle TP+207~~ 
   * ~~https://github.com/shoerley/m2physique/tree/master/TP1~~
-* vendredi 13 octobre 2023 - 13h30 h à 15h30  - salle TP+105
-  * https://github.com/shoerley/m2physique/tree/master/TP2
+* ~~vendredi 13 octobre 2023 - 13h30 h à 15h30  - salle TP+105~~
+  * ~~https://github.com/shoerley/m2physique/tree/master/TP2~~
 
+Remarque : le TP2 peut être remis jusqu'au 24 octobre 2023.
 
-Les liens suivants pourront être utilisés hors séance pour vos éventuelles questions :
+# Assitance
+
+Hors séance, vous pouvez me demander de l'aide ou un avis sur vos travaux. Pour ce faire, deux moyens :
+* Par mail, en posant vos questions avec vos codes sources en pièce jointe ;
+* En visio, après avoir convenu d'un RV par mail.
+
+En ce qui concerne la visio, le lien Zoom suivant sera utilisé : 
 * Zoom : https://zoom.us/j/93340293422?pwd=Z3YvZm15c0ZFNEVYVmdhMmw2a0hYdz09
 
-Il vous faudra au préalable convenir d'un RV en visio.
+Dans tous des cas, **veillez à bien mettre un objet clair dans votre mail** ("Demande d'aide" ou "Demande de RV visio", par exemple), car je ne lis pas systémtatiquement tous les mails. 
+
+
 
 # Evaluation
 
+## Notation continue
+
+Tous les TP sont notés et à remettre par mail à l'adresse indiquée en séance. Les travaux non remis sont notés 0. Les modalités de remise sont les suivantes :
+* A chaque séance, tout étudiant doit faire parvenir son travail au plus tard 10min après l'heure de fin de la séance (= envoi principal).
+* Il demeure possible d'envoyer un complément, correction ou poursuite des travaux à n'importe quel moment, avant la séance suivante (= envoi complémentaire).
+* Aucun envoi complémentaire sans envoi principal correspondant ne sera pris en compte.
+* Les envois incluant des pièces jointes doivent être envoyés à l'adresse donnée en séance, ou bien zippés dans un WeTransfer.
+
+## Evaluation finale
 Votre maquette prévoit une évaluation d'une heure trente, en dehors des heures de TD. Une fois la date fixée, vous en serez informés. Cette évaluation pourra être soit une évaluation écrite sur table (sans ordinateur), soit une évaluation de type travaux pratiques (avec ordinateur).
 
 
@@ -53,12 +71,4 @@ Le forum https://stackoverflow.com est incontournable pour les questions un peu 
 Enfin, si vous utilisez ChatGPT, utilisez-le à bon essien. Plutôt que de lui demander de faire le travail pour vous, demandez-lui de vous expliquer ce que vous n'avez pas compris.
 
 # Notation
-
-Tous les TP sont notés et à remettre par mail à l'adresse indiquée en séance. Les travaux non remis sont notés 0.
-
-A chaque séance, tout étudiant doit faire parvenir son travail au plus tard 10min après l'heure de fin de la séance (= envoi principal).
-
-Il demeure possible d'envoyer un complément, correction ou poursuite des travaux à n'importe quel moment, avant la séance suivante (= envoi complémentaire).
-
-Aucun envoi complémentaire sans envoi principal correspondant ne sera pris en compte.
 
