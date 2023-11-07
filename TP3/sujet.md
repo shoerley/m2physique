@@ -16,7 +16,7 @@ A chaque lancer de pièce, il mise `mise_unitaire`€. Le joueur cesse de parier
 - il a gagné au moins 50% de sa fortune (c'est à dire que sa fortune finale `fortune_finale` vaut `(1 + 0.5) * fortune_initiale`)
 
 3. Quelles sont les chances pour que le joueur perde toute sa fortune ?
-4. Quelles sont les changes pour que le joueur gagne au moins 50% de sa fortune ?
+4. Quelles sont les chances pour que le joueur gagne au moins 50% de sa fortune ?
 
 ## Exercice 2
 
