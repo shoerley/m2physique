@@ -23,3 +23,7 @@ Dans cette question, vous vous servirez d'un fichier comme base de données. Tou
 3. Implémentez le pipeline nécessaire pour mettre à jour un ouragan
 4. Implémentez le pipeline nécessaire pour supprimer un ouragan.
 
+## 4. Recherche d'ouragan
+
+Implémentez une recherche d'ouragans.
+
