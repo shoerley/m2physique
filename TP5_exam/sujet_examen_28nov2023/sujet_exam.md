@@ -43,7 +43,7 @@ Les questions 1 à 6 valent 1 point.
 
 ## Exercice 2 (4 points)
 
-Les questions 1 et 2 valent 1 point. La question 3 vaut 3 points.
+Les questions 1 et 2 valent 1 point. La question 3 vaut 2 points.
 
 Soit le snippet suivant :
 ```python 
