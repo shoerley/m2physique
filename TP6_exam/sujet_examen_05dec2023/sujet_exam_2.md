@@ -105,7 +105,7 @@ On cherche à calculer une valeur suivant le procédé suivant :
 
 La question 1 vaut 0.5 point. La question 2 vaut 1 point. Les questions 3 et 4 valent chacune 2 points. La question 5 vaut 1.5 points.
 
-Un client de EDF vous fait parvenir son relevé de consommation électrique dans le fichier `./stubs/releve_conso.csv`.
+Un client de EDF vous fait parvenir son relevé de consommation électrique dans le fichier `./stubs/electricity_consumption_data.csv`.
 
 **Note** : tous les graphiques demandés devront être présentables (titre, titre des axes, etc.).
 
