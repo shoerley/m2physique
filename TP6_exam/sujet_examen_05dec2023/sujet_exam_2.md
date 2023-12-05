@@ -91,7 +91,7 @@ Un étudiant ayant passé le contrôle continu explique aux étudiantes qui s'ap
 La question 1 vaut 1 point. Les questions 2, 3 et 4 valent chacune 2 points.
 
 On cherche à calculer une valeur suivant le procédé suivant :
-> On commence par choisir un nombre `n` à quatre chiffres, par exemple 8745. A partir de `n`, on produit deux nombres `n1` et `n2`, tel que `n1 > n2`. Le calcul de `n1` et `n2` est réalisé par fonction `mystery_func` qui se trouve dans le fichier `./stubs/exercice_3.py`. Ensuite, on soustrait le plus grand de ces nombres au plus petit. On répète alors l'opération un grand nombre de fois, en prenant, à chaque répétition, `n = n1 - n2`.
+> On commence par choisir un nombre `n` à quatre chiffres, par exemple 8745. A partir de `n`, on produit deux nombres `n1` et `n2`, tel que `n1 > n2`. Le calcul de `n1` et `n2` est réalisé par fonction `mystery_func` qui se trouve dans le fichier `./stubs/exercice_4.py`. Ensuite, on soustrait le plus grand de ces nombres au plus petit. On répète alors l'opération un grand nombre de fois, en prenant, à chaque répétition, `n = n1 - n2`.
 
 **Note** : Pour être sûr d'avoir bien compris le procédé, et après avoir lu l'exercice dans son intégralité et répondu à la question 1, vous pouvez simuler manuellement le processus pour quelques répétitions et noter chaque `n`. Cette étape pourra être vérifiée par le surveillant, qui vous indiquera si votre compréhension est correcte ou non, à l'exception de toute autre indication.
 
